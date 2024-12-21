@@ -17,7 +17,7 @@ export default function Footer() {
                 <br />
                 <strong>Điện thoại:</strong> 0336721xxx
                 <br />
-                <strong>Email:</strong> tnthang.18it5@vku.udn.vn
+                <strong>Email:</strong> lymy@gmail.com
                 <br />
               </p>
             </div>
